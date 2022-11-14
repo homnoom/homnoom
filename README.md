@@ -1,4 +1,4 @@
-![alt text](https://github.com/homnoom/homnoom#:~:text=AdobeStock_496446313_Preview.jpeg)
+![alt text]()
 <h1 align="center">Hi 👋, I'm Hom Noom</h1>
 <h3 align="center">frontend web developer</h3>
 
